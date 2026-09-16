@@ -19,7 +19,7 @@ The **Superstore Sales Analysis Dashboard** is designed to help business stakeho
 
 ## Customer & Regional Analysis
 
-![Customer & Regional Analysis](Superstore Sales Analysis Dashboard/Image/Page-2.png)
+![Customer & Regional Analysis](Image/Page-2.png)
 
 ---
 
