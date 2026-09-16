@@ -13,29 +13,26 @@ The **Superstore Sales Analysis Dashboard** is designed to help business stakeho
 
 ## Executive Sales Overview
 
-![Executive Sales Overview](Superstore-Sales-Analysis-Dashboard/Superstore Sales Analysis Dashboard/Image
-/Page-1.png)
+![Executive Sales Overview](Page-1.png)
 
 ---
 
 ## Customer & Regional Analysis
 
-![Customer & Regional Analysis](Superstore-Sales-Analysis-Dashboard/Superstore Sales Analysis Dashboard/Image
-/Page-2.png)
+![Customer & Regional Analysis](Page-2.png)
 
 ---
 
 ## Product Analysis
 
-![Product Analysis](Superstore-Sales-Analysis-Dashboard/Superstore Sales Analysis Dashboard/Image
-/Page-4.png)
+![Product Analysis](Page-3.png)
 
 ---
 
 ## Profit Analysis
 
-![Profit Analysis](Superstore-Sales-Analysis-Dashboard/Superstore Sales Analysis Dashboard/Image
-/Page-4.png)
+![Profit Analysis](Page-4.png)
+
 ---
 
 ## Project Objectives
